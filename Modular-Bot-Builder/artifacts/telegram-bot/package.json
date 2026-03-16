@@ -1,0 +1,13 @@
+{
+  "name": "@workspace/telegram-bot",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node main.js",
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
